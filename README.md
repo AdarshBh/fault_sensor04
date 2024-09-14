@@ -1,1 +1,1 @@
-## Machine learning project fault_detection sensor project
+## Machine learning fault_detection sensor project
